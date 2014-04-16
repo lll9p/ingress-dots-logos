@@ -1,6 +1,8 @@
 Ingress Dots Logos
 =============
+# Use dots2svg.py to convert dots to svg file.
 
+=============
 View the GitHub page at: https://github.com/lll9p/ingress-dots-logos
 
 Or just grab the logos here:
